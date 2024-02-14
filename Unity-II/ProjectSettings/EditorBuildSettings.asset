@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/2001 Space Odyssey.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Midwest Emo.unity
-    guid: 342e71dccda74ee40b839b67f6ed875f
+    path: Assets/Scenes/StonedApe_Level1.unity
+    guid: acb0d6c15456bff4fa365b3ce64e4e20
   m_configObjects: {}
