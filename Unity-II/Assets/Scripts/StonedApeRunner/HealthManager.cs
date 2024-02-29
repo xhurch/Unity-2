@@ -23,6 +23,8 @@ public class HealthManager : MonoBehaviour
     {
         if(health == 0)
         {
+            LivesManager.lives--;
+            print(LivesManager.lives);
             StartCoroutine(PlayerReborn());
         }
     }
